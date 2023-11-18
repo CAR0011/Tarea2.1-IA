@@ -1,0 +1,9 @@
+¿El resultado fue mejor o peor?
+El resultado fue mejor que el que se obtuvo en clase, pero se mejoraron los números
+por el hecho de implementar todos los recursos de la clase, obtenindo un 70% de precisión.
+En lo personal no pude alcanzar un porcenjate más alto con los conocimientos que poseo,
+aplique nuevos conocimientos que adquiri en base inventigación en internet y arrojando ese dato final.
+
+¿Por qué crees que es así?
+
+Hice la transformación de las datos e implemente lo aprendido en clase para trata de mejorar la precisión.
